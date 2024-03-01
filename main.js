@@ -28,3 +28,5 @@ let teamMembers = 100;
 // }
 
 // counterIncrease();
+
+// changes in the main.js -----
